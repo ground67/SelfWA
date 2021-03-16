@@ -1,0 +1,38 @@
+{
+  "Modepublic": {
+    "status": true
+  },
+  "pmAutoRead": {
+    "status": false
+  },
+  "gAutoRead": {
+    "status": false
+  },
+  "responder": {
+    "tag": {
+      "status": false,
+      "GROUP": [],
+      "message": {}
+    },
+    "pm": {
+      "status": false,
+      "message": "Hai @! 👋\n\nSaya mungkin lagi ada kesibukan.\nmohon tinggalkan pesan disini dan dia akan segera kembali online!.\n-\nI'm busy right now\nplease leave a message here and he will reply right away!"
+    },
+    "welcome": {
+      "status": false,
+      "GROUP": [],
+      "message": {}
+    },
+    "leave": {
+      "status": false,
+      "GROUP": [],
+      "message": {}
+    },
+    "groupchange": {
+      "status": false
+    }
+  },
+  "pictFakestatus": "./media/md.jpg",
+  "pictFakethumb": "./media/md.jpg",
+  "pictDeface": "./media/md.jpg"
+}
