@@ -1,6 +1,8 @@
  
-## Welcome to my Github ground67 <img src="https://i.gifer.com/2yH4.gif" width="32px"> 
-<img align="center" height="auto" src="https://i.gifer.com/VRiK.gif"/>
+## Welcome to my Github ground67 <img src="https://i.ibb.co/vm1nwP3/IMG-20210316-210151.jpg" width="20px" height="20px"> 
+<p align="center">
+<img src="https://i.ibb.co/Ry4q0d2/20210222-193446.jpg" alt="IMG" width="200" height="150"/>
+</p>
 
 ___
 
